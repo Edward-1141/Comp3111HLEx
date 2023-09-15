@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b2d58f-c9a3-4bff-835b-da8898a38102" name="Changes" comment="Add 2 print lines as report heading">
+    <list default="true" id="c1b2d58f-c9a3-4bff-835b-da8898a38102" name="Changes" comment="Add the 4th print line">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -45,7 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.customizations"
+    "last_opened_file_path": "C:/Users/User/OneDrive/圖片/螢幕擷取畫面/螢幕擷取畫面 2023-09-15 204940.png",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694780404934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add the 4th print line">
+      <option name="closed" value="true" />
+      <created>1694780953445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694780953445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111HLEx Project" />
     <MESSAGE value="Add 2 print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
+    <MESSAGE value="Add the 4th print line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the 4th print line" />
   </component>
 </project>
