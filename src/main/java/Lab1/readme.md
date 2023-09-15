@@ -8,5 +8,5 @@
 ###
 ### Here's the screenshot of my  1st lab project in IntelliJ:
 
- <p style="text-align: center"><img src="lab.png" width="850"/>
+ <p style="text-align: center"><img src="../../../../lab.png" width="850"/>
 
